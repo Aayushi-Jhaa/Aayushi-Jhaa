@@ -1,10 +1,10 @@
 ### Welcome to my GitHub profile! 
 <h1 align="center">Hi 👋, I'm Aayushi Jha</h1>
-<h3 align="center">Aspiring Data Scientist | Data Science Student at Manipal University Jaipur | Machine Learning & Business Intelligence Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Data Science Student at University of New South Wales | Machine Learning & Business Intelligence Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/anime-girl-working-her-computer-background-lofi-music_846334-1014.jpg">
 
 
-I'm Aayushi Jha, a highly motivated Data Science enthusiast currently pursuing a Bachelor of Technology with a specialization in Data Science from Manipal University Jaipur.
+I'm Aayushi Jha, a highly motivated Data Science enthusiast currently pursuing a Masters in Data Science and Descisisons from University of New South Wales.
 I am passionate about Data and discovering the stories it has to tell. Throughout my academic journey, I've delved into various areas such as Python, R, Deep Learning, Artificial Intelligence, Machine Learning, Business Analytics, and Data Visualization.
 
 My repositories here represent a blend of personal projects, contributions to open-source initiatives, and experimentation with emerging technologies. Each project is a reflection of my dedication to continuous learning and my desire to make a positive impact on the world through code.
